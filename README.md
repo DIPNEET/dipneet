@@ -1,7 +1,8 @@
+<div align="center">
 # [Dipneet Kaur](https://dipneetkaur.github.io) 👋
 
 
-<div align="center">
+
 <img width=140 height=150 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
 
 
