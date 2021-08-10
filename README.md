@@ -1,6 +1,7 @@
 # [Dipneet Kaur](https://dipneetkaur.github.io) 👋
 
-<span style="display:block;text-align:center;width:20;">![Mario waves hello](https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif)</span><br>
+
+<span style="display:block;align:center;">![Mario waves hello](https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif)</span><br>
 
 Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.
 
