@@ -1,7 +1,9 @@
 # [Dipneet Kaur](https://dipneetkaur.github.io) 👋
 
 
-<span style="display:block;align:center;">![Mario waves hello](https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif)</span><br>
+<div align="center">
+<img width=140 height=150 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
+
 
 Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.
 
@@ -36,8 +38,11 @@ Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.
 
 
 ___
+
 📫 Reach out to me :v: 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dipneet-kaur-1aa5b416a/)
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/dipneet_kaur/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/DIPNEET)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>](mailto:dksandhu97@gmail.com)
+
+</div>
