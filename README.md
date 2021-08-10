@@ -1,5 +1,6 @@
+
 <div align="center">
-  
+
 # [Dipneet Kaur](https://dipneetkaur.github.io) 👋
 
 
@@ -24,13 +25,16 @@ Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.
 <code><img height="20" src="Assets/firebase.png"></code>
 <code><img height="20" src="Assets/git.png"></code>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/dipneet/github-readme-stats)*
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipneet&show_icons=true&include_all_commits=true&theme=material-synthwave"/> <br>
   
 
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipneet&layout=compact&theme=material-synthwave" /><br> 
+ 
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/dipneet/github-readme-stats)*
+
+___
 
 ##### For more information about me, Visit here :smile:
 <a href="https://dipneet.github.io/dipneetkaur/test.html">
