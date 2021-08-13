@@ -6,7 +6,7 @@
 
 <div style="display:flex;flex-direction:row;padding:0px;" >
 
-<img width=90 height=100 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
+<img width=130 height=140 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
 
 <p style="padding:30px;fontFamily:cursive;">
 Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.<br><br>
@@ -61,5 +61,6 @@ ___
 [<img src="https://img.icons8.com/color/48/000000/instagram.png" width="3.5%"/>](https://www.instagram.com/dipneet_kaur/)
 [<img src="https://img.icons8.com/color/48/000000/github.png" width="3.5%"/>](https://github.com/DIPNEET)
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"/>](mailto:dksandhu97@gmail.com)
+[<img src="Assets/byjus.png" width="3.3%"/>](mailto:dipneet.kaur@byjusteachers.com)
 
 </div>
