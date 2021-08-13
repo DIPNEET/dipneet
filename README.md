@@ -4,7 +4,7 @@
 # [Dipneet Kaur](https://dipneetkaur.github.io) 
 
 
-<div style="display:flex;flex-direction:row;padding:0px;" >
+<div style="display:flex-wrap;flex-direction:row;" >
 
 <img width=90 height=100 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
 
@@ -42,7 +42,7 @@ ___
 
 
  
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/dipneet/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ___
 
