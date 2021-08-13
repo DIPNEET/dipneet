@@ -6,10 +6,10 @@
 
 <div style="display:flex;flex-direction:row;padding:0px;" >
 
-<img width=130 height=140 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
+<img width=90 height=100 src='https://images6.fanpop.com/image/photos/37800000/-Hello-penguins-of-madagascar-37800672-500-500.gif'/>
 
 <p style="padding:30px;fontFamily:cursive;">
-Hi, I'm Dipneet Kaur, a passionate self-taught web developer from India.<br><br>
+Hi, I'm Dipneet Kaur, a passionate developer from India.<br>
 MCA, University Of Delhi <br>B.Sc.(Hons) Computer Science, University Of Delhi 
 </p>
 </div>
