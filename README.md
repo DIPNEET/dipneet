@@ -13,8 +13,6 @@ Hi, I'm Dipneet Kaur, a passionate developer from India.<br>
 MCA, University Of Delhi <br>B.Sc.(Hons) Computer Science, University Of Delhi 
 </p>
   
-___
-  
 📫 Reach out to me :v:
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/dipneet-kaur-1aa5b416a/)
