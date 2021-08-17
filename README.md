@@ -42,22 +42,25 @@ ___
 
 ___
 
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dipneet&show_icons=true&include_all_commits=true&theme=material-synthwave"/> <br>
+<div style="display:flex-wrap;flex-direction:row;" >
+  
+<img    src="https://github-readme-stats.vercel.app/api?username=dipneet&show_icons=true&include_all_commits=true&theme=material-synthwave"/>
   
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipneet&layout=compact&theme=material-synthwave" /><br> 
+<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipneet&layout=compact&theme=material-synthwave" />
 
-  ##### For more information about me, Visit here :smile:
-<a href="https://dipneet.github.io/dipneetkaur/test.html">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dipneet&repo=dipneetkaur&theme=material-synthwave" />
-</a><br>
-
- 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
+##### For more information about me, Visit here :smile:
+  
+<a href="https://dipneet.github.io/dipneetkaur/test.html">
+<img  width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=dipneet&repo=dipneetkaur&theme=material-synthwave" />
+</a>
 
-___
+ 
+
+
+</div>
 
 
 
