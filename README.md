@@ -14,6 +14,14 @@ MCA, University Of Delhi <br>B.Sc.(Hons) Computer Science, University Of Delhi
 </p>
  
 </div>
+
+ ##### For more information about me, Visit here :smile:
+  
+<a href="https://dipneet.github.io/dipneetkaur">
+<img  width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=dipneet&repo=dipneetkaur&theme=material-synthwave" />
+</a>
+
+ 
   
 📫 Reach out to me :v:
 
@@ -54,13 +62,7 @@ ___
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-##### For more information about me, Visit here :smile:
-  
-<a href="https://dipneet.github.io/dipneetkaur">
-<img  width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=dipneet&repo=dipneetkaur&theme=material-synthwave" />
-</a>
 
- 
 
 
 </div>
