@@ -56,7 +56,7 @@ ___
 
 ##### For more information about me, Visit here :smile:
   
-<a href="https://dipneet.github.io/dipneetkaur/test.html">
+<a href="https://dipneet.github.io/dipneetkaur">
 <img  width="370" src="https://github-readme-stats.vercel.app/api/pin/?username=dipneet&repo=dipneetkaur&theme=material-synthwave" />
 </a>
 
